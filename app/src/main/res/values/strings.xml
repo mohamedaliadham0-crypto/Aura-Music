@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AURA MUSIC</string>
+    <string name="widget_mini_desc">Compact player with play and next</string>
+    <string name="widget_standard_desc">Player with controls and progress</string>
+    <string name="widget_large_desc">Large player with artwork and shuffle indicator</string>
+</resources>
